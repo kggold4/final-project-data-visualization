@@ -162,3 +162,9 @@ In this project we have a lot of data that we want to perform classification pro
 | Grid Seach with XGradient Boost | 83.95 % |
 
 ### Best Model - KNN - 88.69 %
+
+## To clone this project:
+
+```
+https://github.com/kggold4/final-project-data-visualization.git
+```

@@ -48,3 +48,51 @@ In this project we have a lot of data that we want to perform classification pro
 
 ### Best Model - Gradient Boost - 78.80 %
 
+<hr>
+
+### Notebook 2:
+
+ - 154 PCA Components:
+
+| Model | Accuracy |
+| ------ | ------ |
+| KMeans | 7.29 % |
+| Bagging | 74.38 % |
+| Pasting | 74.88 % |
+| Random Forest | 84.83 % |
+| AdaBoost | 84.81 % |
+| XGradient Boost | 88.14 % |
+| Grid Search with Random Forest | 86.28 % |
+| Grid Search with XGradient Boost | 86.81 % |
+
+### Best Model - Extreme Gradient Boostring Classifier - 88.14 %
+
+ - 50 PCA Components:
+
+| Model | Accuracy |
+| ------ | ------ |
+| KMeans | 1.47 % |
+| Bagging | 76.08 % |
+| Pasting | 76.20 % |
+| Random Forest | 85.56 % |
+| AdaBoost | 86.17 % |
+| XGradient Boost | 87.53 % |
+| Grid Search with Random Forest | 86.45 % |
+| Grid Search with XGradient Boost | 87.11 % |
+
+### Best Model - Extreme Gradient Boostring Classifier - 87.53 %
+
+ - 24 PCA Components:
+
+| Model | Accuracy |
+| ------ | ------ |
+| KMeans | 16.30 % |
+| Bagging | 76.06 % |
+| Pasting | 76.05 % |
+| Random Forest | 85.13 % |
+| AdaBoost | 85.94 % |
+| XGradient Boost | 86.36 % |
+| Grid Search with XGradient Boost | 85.68 % |
+
+### Best Model - Extreme Gradient Boostring Classifier - 86.36 %
+

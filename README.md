@@ -101,6 +101,47 @@ In this project we have a lot of data that we want to perform classification pro
 
 ### Notebook 3:
 
+ - 335 PCA Components (100^2 pixels images greyscale):
+
+| Model | Accuracy |
+| ------ | ------ |
+| Bagging Classifier | 55.28 % |
+| Pasting Classifier | 54.52 % |
+| Random Forest Classifier | 60.80 % |
+| AdaBoostring Classifier | 56.20 % |
+| Extreme Gradient Boostring Classifier(Binary) | 64.36 % |
+| Grid Search with Random Forest Classifier | 61.75 % |
+| Grid Seach with Extreme Gradient Boostring Classifier(Multi) | 64.04 % |
+
+### Best Model - Extreme Gradient Boostring Classifier - 64.36 %
+
+ - 300 PCA Components (30^2 pixels images no greyscale):
+
+| Model | Accuracy |
+| ------ | ------ |
+| Bagging Classifier | 57.12 % |
+| Pasting Classifier | 56.64 % |
+| Random Forest Classifier | 63.62 % |
+| AdaBoostring Classifier | 56.46 % |
+| Extreme Gradient Boostring Classifier(Binary) | 65.84 % |
+| Grid Search with Random Forest Classifier | 63.00 % |
+| Grid Seach with Extreme Gradient Boostring Classifier(Multi) | 66.20 % |
+
+### Best Model - Grid Seach with Extreme Gradient Boostring Classifier - 66.20 %
+
+ - 185 PCA Components (30^2 pixels images no greyscale):
+
+| Model | Accuracy |
+| ------ | ------ |
+| Bagging Classifier | 58.32 % |
+| Pasting Classifier | 57.00 % |
+| Random Forest Classifier | 64.48 % |
+| AdaBoostring Classifier | 57.50 % |
+| Extreme Gradient Boostring Classifier(Binary) | 65.40 % |
+| Grid Search with Random Forest Classifier | 63.61 % |
+| Grid Seach with Extreme Gradient Boostring Classifier(Multi) | 65.98 % |
+
+### Best Model - Grid Seach with Extreme Gradient Boostring Classifier - 65.98 %
 
 <hr>
 

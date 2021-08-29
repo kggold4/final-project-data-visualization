@@ -25,3 +25,5 @@ In this project we have a lot of data that we want to perform classification pro
 1. Part 2 - [task_2](task_2.ipynb) notebook, Dimensionality Reduction, PCA and Classification using ensemble and usupervised learning for <b>Fashion MNIST</b> Dataset.
 1. Part 3 - [task_3](task_3.ipynb) notebook, Dimensionality Reduction, PCA and Classification using ensemble and usupervised learning for <b>Cat & Dog</b> dataset.
 1. Part 4 - [task_4](task_4.ipynb) notebook, Classification using ensemble and usupervised learning on the <b>Hands</b> datasets.
+
+# <u>For Lecturer (Roi) - Please read [README.pdf](README.pdf) file</u>

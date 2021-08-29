@@ -92,7 +92,32 @@ In this project we have a lot of data that we want to perform classification pro
 | Random Forest | 85.13 % |
 | AdaBoost | 85.94 % |
 | XGradient Boost | 86.36 % |
-| Grid Search with XGradient Boost | 85.68 % |
+| Grid Search with Random Forest | 85.68 % |
 
 ### Best Model - Extreme Gradient Boostring Classifier - 86.36 %
 
+
+<hr>
+
+### Notebook 3:
+
+
+<hr>
+
+### Notebook 4:
+
+| Model | Accuracy |
+| ------ | ------ |
+| KNN | 88.69 % |
+| DecisionTree | 62.76 % |
+| LogisticRegression | 82.86 % |
+| Bagging | 81.06 % |
+| Pasting | 82.41 % |
+| Random Forest | 81.78 % |
+| AdaBoost | 78.73 % |
+| Stacking | 82.49 % |
+| XGradient Boost | 70.85 % |
+| Grid Search with Random Forest | 86.49 % |
+| Grid Seach with XGradient Boost | 83.95 % |
+
+### Best Model - KNN - 88.69 %

@@ -27,3 +27,24 @@ In this project we have a lot of data that we want to perform classification pro
 1. Part 4 - [task_4](task_4.ipynb) notebook, Classification using ensemble and usupervised learning on the <b>Hands</b> datasets.
 
 # <u>For Lecturer (Roi) - Please read [README.pdf](README.pdf) file</u>
+
+## <i> Classificaion Results: </i>
+
+### Notebook 1:
+
+| Model | Accuracy |
+| ------ | ------ |
+| KNN | 70.40 % |
+| DecisionTree | 72.40 % |
+| LogisticRegression | 77.60 % |
+| Hard Voting | 74.80 % |
+| Soft Voting | 76.80 % |
+| Bagging | 77.60 % |
+| Pasting | 77.20 % |
+| Random Forest | 74.40 % |
+| AdaBoost | 77.60 % |
+| Gradient Boost | 78.80 % |
+| XGradient Boost | 76.40 % |
+
+### Best Model - Gradient Boost - 78.80 %
+
